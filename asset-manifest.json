@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/isaiahdaviscom/design-system/static/css/main.073c9b0a.css",
-    "main.js": "/isaiahdaviscom/design-system/static/js/main.2893b6a1.js",
-    "static/js/787.abe54bfc.chunk.js": "/isaiahdaviscom/design-system/static/js/787.abe54bfc.chunk.js",
-    "static/media/logo.svg": "/isaiahdaviscom/design-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/isaiahdaviscom/design-system/index.html",
-    "main.073c9b0a.css.map": "/isaiahdaviscom/design-system/static/css/main.073c9b0a.css.map",
-    "main.2893b6a1.js.map": "/isaiahdaviscom/design-system/static/js/main.2893b6a1.js.map",
-    "787.abe54bfc.chunk.js.map": "/isaiahdaviscom/design-system/static/js/787.abe54bfc.chunk.js.map"
+    "main.css": "/design-system/static/css/main.073c9b0a.css",
+    "main.js": "/design-system/static/js/main.1bdf8a86.js",
+    "static/js/787.abe54bfc.chunk.js": "/design-system/static/js/787.abe54bfc.chunk.js",
+    "static/media/logo.svg": "/design-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/design-system/index.html",
+    "main.073c9b0a.css.map": "/design-system/static/css/main.073c9b0a.css.map",
+    "main.1bdf8a86.js.map": "/design-system/static/js/main.1bdf8a86.js.map",
+    "787.abe54bfc.chunk.js.map": "/design-system/static/js/787.abe54bfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2893b6a1.js"
+    "static/js/main.1bdf8a86.js"
   ]
 }
