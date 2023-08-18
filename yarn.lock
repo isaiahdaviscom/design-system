@@ -2860,17 +2860,17 @@
   dependencies:
     "@types/estree" "*"
 
-"@types/estree@*", "@types/estree@^0.0.51":
-  version "0.0.51"
-  resolved "https://registry.npmjs.org/@types/estree/-/estree-0.0.51.tgz"
+"@types/estree@*", "@types/estree@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/@types/estree/-/estree-1.0.0.tgz"
 
 "@types/estree@0.0.39":
   version "0.0.39"
   resolved "https://registry.npmjs.org/@types/estree/-/estree-0.0.39.tgz"
 
-"@types/estree@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/@types/estree/-/estree-1.0.0.tgz"
+"@types/estree@^0.0.51":
+  version "0.0.51"
+  resolved "https://registry.npmjs.org/@types/estree/-/estree-0.0.51.tgz"
 
 "@types/express-serve-static-core@*", "@types/express-serve-static-core@^4.17.18":
   version "4.17.30"
@@ -13152,9 +13152,9 @@ webpack@4:
     watchpack "^1.7.4"
     webpack-sources "^1.4.1"
 
-"webpack@>=4.43.0 <6.0.0", webpack@^5.64.4, webpack@^5.74.0, webpack@^5.9.0:
-  version "5.74.0"
-  resolved "https://registry.npmjs.org/webpack/-/webpack-5.74.0.tgz"
+"webpack@>=4.43.0 <6.0.0", webpack@^5.64.4, webpack@^5.76.0, webpack@^5.9.0:
+  version "5.76.0"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.76.0.tgz#f9fb9fb8c4a7dbdcd0d56a98e56b8a942ee2692c"
   dependencies:
     "@types/eslint-scope" "^3.7.3"
     "@types/estree" "^0.0.51"
